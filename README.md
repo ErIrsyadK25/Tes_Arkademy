@@ -1,5 +1,4 @@
-#Jawaban Ujian Arkademy
-Tes Arkademy
+#Jawaban Ujian Test Arkademy
 
 1.  Biodata Asli dengan JSON dan Return PHP
 
