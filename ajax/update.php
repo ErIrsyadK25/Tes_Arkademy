@@ -4,8 +4,8 @@ include_once 'database.php';
 header('Content-Type: application/json');
 $id = $_POST["id"];
 $name = $_POST["name"];
-$id_hobby = $_POST["hobby"];
-$id_category = $_POST["category"];
+$id_hobby = $_POST["Hobby"];
+$id_category = $_POST["Category"];
 
 $update_db = mysqli_query($koneksi, 'UPDATE nama SET name = "' . $name . '", "' . $id_hobby . '" , id_category = "' . $id_category . '" WHERE id = ' . $id);
 
