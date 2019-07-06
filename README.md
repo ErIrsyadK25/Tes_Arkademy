@@ -12,6 +12,7 @@ Tes Arkademy
     ● Format username: merupakan kombinasi dari huruf kecil, huruf besar dan angka dengan panjang 5-9 karakter. Username tidak 
       boleh diawali   
       dengan angka.
+      
     ● Format password: merupakan kombinasi dari huruf kecil, huruf besar minimal satu karakter, angka minimal satu karakter, dan 
       karakter spesial 
       minimal satu karakter dan harus memiliki karakter simbol ‘@’  dan panjang minimal 8 karakter.
