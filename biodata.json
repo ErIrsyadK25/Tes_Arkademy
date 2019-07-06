@@ -1,0 +1,21 @@
+{
+	"biodata": {
+		"name": "Ryan Irsyadul Kamil",
+		"age": 18,
+		"address": "Bandung",
+		"hobbies": [ "Mendengarkan Musik", "Menonton", "Berenang" ],
+		"is_married": false,
+		"list_school": [
+			{ "name": "SDN Dayabakti", "year_in": "2007", "year_out": "2013", "major": null },
+			{ "name": "MTsN 4 Bandung Barat", "year_in": "2013", "year_out": "2016", "major": null },
+			{ "name": "SMKN 4 Padalarang", "year_in": "2016", "year_out": "2019", "major": null }
+		],
+		"skills": [
+			{ "skill_name": "HTML", "level": "Advanced" },
+			{ "skill_name": "CSS", "level": "Advanced" },
+			{ "skill_name": "PHP", "level": "Advanced" },
+			{ "skill_name": "JavaScript", "level": "Beginner" }
+		],
+		"interest_in_coding": true
+	}
+}
