@@ -3,6 +3,7 @@
 1.  Biodata Asli dengan JSON dan Return PHP
 
     Kegunaan JSON pada RestAPI
+    
     JSON (JavaScript Object Notation) adalah sebuah format data yang digunakan untuk pertukaran dan penyimpanan data. JSON 
     digunakan sebagai format standar untuk bertukar data antar aplikasi.
 
