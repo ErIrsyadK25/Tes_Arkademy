@@ -8,8 +8,8 @@ function ValidatePassword($password)
     return preg_match('/^\S*(?=\S{8,})(?=\S*[a-z])(?=\S*[A-Z])(?=\S*[\@])\S*$/', $password);
 }
 
-/*
-if (ValidateUser("zeronull")) {
+
+if (ValidateUser("1Arkademy")) {
     echo "Username Is Valid";
 } else {
     echo "Username Is Invalid";
@@ -20,4 +20,4 @@ if (ValidatePassword("p@ssW0rd#")) {
 } else {
     echo "Password Is Invalid";
 }
-*/
+?>
