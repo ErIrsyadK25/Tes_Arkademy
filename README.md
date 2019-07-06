@@ -20,7 +20,7 @@
 
     Fungsi/method yang dapat mencari bilangan asli manakah yang membutuhkan operasi terbanyak untuk mencapai angka 1 (satu).
 
-7.  Project Aplikasi Data Hobi PHP Ajax dan jQuery
+7.  Project Aplikasi Data Hobi PHP Ajax dan jQuery (Directory Ajax)
 
     Tampilan Halaman Utama
     ![gambar](https://user-images.githubusercontent.com/52070105/60757814-b4e50a00-a039-11e9-9d1d-bf5c69a7e746.png)
