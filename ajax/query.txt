@@ -1,0 +1,7 @@
+Query
+
+SELECT n.name, h.name as Hobby, k.name from nama n, hobi h, kategori k where n.id_hobby=h.id and n.id_category=k.id
+
+Query Membuat View
+
+Create Or Replace View v_arkademy as SELECT n.name, h.name as Hobby, k.name from nama n, hobi h, kategori k where n.id_hobby=h.id and n.id_category=k.id 
