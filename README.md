@@ -24,10 +24,10 @@ Tes Arkademy
 7.  Project Aplikasi Data Hobi PHP Ajax dan jQuery
 
     Tampilan Halaman Utama
-    https://user-images.githubusercontent.com/52070105/60757814-b4e50a00-a039-11e9-9d1d-bf5c69a7e746.png
+    ![gambar](https://user-images.githubusercontent.com/52070105/60757814-b4e50a00-a039-11e9-9d1d-bf5c69a7e746.png)
     
     Tampilan Tambah Data
-    https://user-images.githubusercontent.com/52070105/60757865-52403e00-a03a-11e9-8faf-cf383cb9282e.png
+    ![gambar](https://user-images.githubusercontent.com/52070105/60757865-52403e00-a03a-11e9-8faf-cf383cb9282e.png)
     
     Tampilan Edit Data
-    https://user-images.githubusercontent.com/52070105/60757876-7d2a9200-a03a-11e9-87e5-bc4ed34b6a2c.png
+    ![gambar](https://user-images.githubusercontent.com/52070105/60757876-7d2a9200-a03a-11e9-87e5-bc4ed34b6a2c.png)
